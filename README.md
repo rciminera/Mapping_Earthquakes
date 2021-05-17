@@ -26,4 +26,4 @@ Using JavaScript, Leaflet.js, and geoJSON data, this major earthquake data was a
 
 Using JavaScript, Mapbox, and Leaflet.js add a third "Dark" map style was added to the map.  The user has a choice among 3 background views in a dropdown box:  "Street", "Satellite", and "Dark".
 
-<img src="https://github.com/rciminera/Mapping_Earthquakes/blob/main/Earthquake_Map.png" width = "400" >
+<img src="https://github.com/rciminera/Mapping_Earthquakes/blob/main/Earthquake_Map.png" width = "800" >
