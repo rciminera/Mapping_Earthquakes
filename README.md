@@ -7,7 +7,9 @@ A global map of earthquake data for the past 7 days was created using informatio
 
 ### Results
 
-3 major deliverables were created for this analysis.
+3 major deliverables were created for this analysis.  
+
+(This is the link to the javascript code)[https://github.com/rciminera/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/js/challenge_logic.js]
 
 #### I. Past 7 Day Global Earthquake Map
 
